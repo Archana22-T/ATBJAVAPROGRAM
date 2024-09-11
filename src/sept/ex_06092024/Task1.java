@@ -1,4 +1,4 @@
 package sept.ex_06092024;
 
-public class Lab001 {
+public class Task1 {
 }
