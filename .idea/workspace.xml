@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6e34af-7857-4080-aebc-435b464cd2d3" name="Changes" comment="Add the 16 sept">
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab054.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab055.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab056.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab057.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab059.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab060_TASKFORTODAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab061.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab045_TaskForToday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_16092024_Operators/Lab045_TaskForToday.java" afterDir="false" />
-    </list>
+    <list default="true" id="3d6e34af-7857-4080-aebc-435b464cd2d3" name="Changes" comment="Add the 16 sept" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,60 +43,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab005.executor": "Run",
-    "Application.Lab006.executor": "Run",
-    "Application.Lab007.executor": "Run",
-    "Application.Lab014.executor": "Run",
-    "Application.Lab015.executor": "Run",
-    "Application.Lab016_Datatypes.executor": "Run",
-    "Application.Lab017_Datatypes.executor": "Run",
-    "Application.Lab019.executor": "Run",
-    "Application.Lab020.executor": "Run",
-    "Application.Lab021.executor": "Run",
-    "Application.Lab022.executor": "Run",
-    "Application.Lab023.executor": "Run",
-    "Application.Lab024.executor": "Run",
-    "Application.Lab026.executor": "Run",
-    "Application.Lab027_Pre_cal.executor": "Run",
-    "Application.Lab031_Arithmetic_operator.executor": "Run",
-    "Application.Lab034.executor": "Run",
-    "Application.Lab036.executor": "Run",
-    "Application.Lab037_Compound_Assignment_Operators.executor": "Run",
-    "Application.Lab038_Relational_operator.executor": "Run",
-    "Application.Lab039_Logical_Operators.executor": "Run",
-    "Application.Lab040.executor": "Run",
-    "Application.Lab041.executor": "Run",
-    "Application.Lab042.executor": "Run",
-    "Application.Lab043.executor": "Run",
-    "Application.Lab045_TaskForToday.executor": "Run",
-    "Application.Lab047.executor": "Run",
-    "Application.Lab048.executor": "Run",
-    "Application.Lab049.executor": "Run",
-    "Application.Lab052.executor": "Run",
-    "Application.Lab053.executor": "Run",
-    "Application.Lab054.executor": "Run",
-    "Application.Lab055.executor": "Run",
-    "Application.Lab056.executor": "Run",
-    "Application.Lab057.executor": "Run",
-    "Application.Lab058.executor": "Run",
-    "Application.Lab059.executor": "Run",
-    "Application.Lab061.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DELL/IdeaProjects/ATBJAVAPROGRAM/src/sept/ex_16092024_Operators",
-    "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/ATBJAVAPROGRAM/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab016_Datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab017_Datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab020.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab021.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab022.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab023.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab024.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab027_Pre_cal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab031_Arithmetic_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab034.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab036.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab037_Compound_Assignment_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab038_Relational_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab039_Logical_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab040.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab041.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab042.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab045_TaskForToday.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab048.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab049.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab052.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab053.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab056.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab058.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab059.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/IdeaProjects/ATBJAVAPROGRAM/src/sept/ex_16092024_Operators&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/DELL/IdeaProjects/ATBJAVAPROGRAM/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\IdeaProjects\ATBJAVAPROGRAM\src\sept\ex_16092024_Operators" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Lab022">
     <configuration name="Lab022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sept.ex_13092024_Userdefined.Lab022" />
       <module name="ATBJAVAPROGRAM" />
@@ -240,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726597339990</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add the 16 sept">
+      <option name="closed" value="true" />
+      <created>1727013224753</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727013224753</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
