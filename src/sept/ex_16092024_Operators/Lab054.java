@@ -1,0 +1,11 @@
+package sept.ex_16092024_Operators;
+
+public class Lab054 {
+    public static void main(String[] args) {
+        int a = 10;
+        int result = ++a;
+        System.out.println(a);
+        System.out.println(result);
+
+    }
+}
